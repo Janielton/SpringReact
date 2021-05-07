@@ -48,7 +48,6 @@ function BarChart() {
                     }
                 ] 
              })
-            console.log(chartData);
         })
       }, [])
       
